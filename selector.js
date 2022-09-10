@@ -1,0 +1,5 @@
+export const fromSelect = document.querySelector('#from')
+export const toSelect = document.querySelector('#to')
+export const amountInput =document.querySelector('#amout')
+export const form = document.querySelector('form')
+export const resalt = document.querySelector('.resalt')
